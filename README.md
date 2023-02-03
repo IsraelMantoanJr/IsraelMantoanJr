@@ -1,10 +1,10 @@
 ### Olá, eu sou Israel Mantoan Júnior 👋
 
-🌱 I’m currently learning HTML, CSS e JavaScript
+🌱 Estou aprendendo HTML, CSS e JavaScript
 
- 👯 I’m looking to collaborate on awesome projects
+ 👯 Procuro colaborar com projeto incríveis
  
- 📫 How to reach me: israelmantoan@gmail.com
+ 📫 Como me contatar: israelmantoan@gmail.com
 
 <!--
 **IsraelMantoanJr/IsraelMantoanJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
