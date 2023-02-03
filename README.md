@@ -2,7 +2,7 @@
 
 🌱 Estou aprendendo HTML, CSS e JavaScript
 
- 👯 Procuro colaborar com projeto incríveis
+ 👯 Procuro colaborar com projetos incríveis
  
  📫 Como me contatar: israelmantoan@gmail.com
 
