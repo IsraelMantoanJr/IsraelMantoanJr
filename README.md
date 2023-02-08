@@ -3,8 +3,6 @@
 🌱 Estou aprendendo HTML, CSS e JavaScript
 
  👯 Procuro colaborar com projetos incríveis
- 
- 📫 Como me contatar: israelmantoan@gmail.com
 
 <!--
 **IsraelMantoanJr/IsraelMantoanJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
