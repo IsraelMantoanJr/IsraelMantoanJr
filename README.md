@@ -2,7 +2,7 @@
 
 🌱 Estou aprendendo HTML, CSS e JavaScript
 
- 👯 Procuro colaborar com projetos incríveis
+ 👯 Procuro colaborar com aprendizado
 
 <!--
 **IsraelMantoanJr/IsraelMantoanJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
