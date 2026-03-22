@@ -19,15 +19,15 @@ Aqui estão algumas ideias para você comer:
 - ⚡ Curiosidade: ...
 -->
 
-<dividir>
+<div>
   <a href="https://github.com/israelmantoanjr">
-  <imagem alta="180em" fonte="https://github-readme-stats.vercel.app/api?username=israelmantoanjr&maisrar_ícones=verdadeiro&tema=drácula&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro"/>
-  <imagem alta="180em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=israelmantoanjr&layout=compacto&contagem_langs=16&tema=drácula"/>
-</dividir>
-<dividir estilo="exibir: bloco_inline"><br>
-    <imagem alinhar="centro" alt="Israel-HTML" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <imagem alinhar="centro" alt="Israel-CSS" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <imagem alinhar="centro" alt="Israel-Js" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <imagem alinhar="centro" alt="Israel-Python" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <imagem alinhar="centro" alt="Israel-Python" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</dividir>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelmantoanjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelmantoanjr&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+    <img align="center" alt="Israel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Israel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Israel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Israel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Israel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
