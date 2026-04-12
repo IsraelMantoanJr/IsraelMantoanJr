@@ -18,7 +18,7 @@ Aqui estão algumas ideias para você comer:
  😄 Pronomas: ...
 - ⚡ Curiosidade: ...
 -->
-
+<!--
 <div>
   <a href="https://github.com/israelmantoanjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelmantoanjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
